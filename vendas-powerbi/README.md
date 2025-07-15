@@ -4,7 +4,7 @@
 Criar um painel de vendas com KPIs de faturamento, ticket médio e categorias de produtos, utilizando base simulada.
 
 ## 📁 Dados utilizados
-- Fonte: Base simulada de vendas (criada no Excel)
+- Fonte: Base simulada de vendas retirada do Kaggle
 - 1000 registros com colunas: Data, Produto, Categoria, Quantidade, Valor
 
 ## 🧰 Ferramentas
