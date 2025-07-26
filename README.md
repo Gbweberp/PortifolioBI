@@ -22,7 +22,7 @@ Ao longo da minha trajetória, venho desenvolvendo competências em análise de 
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| 📊 **Dashboard Campeonato Italiano** | Painel com KPIs de receita, ticket médio, volume vendido e top produtos | [Ver projeto](./vendas-powerbi) |
+| 📊 **Dashboard Campeonato Italiano** | Analise do desempenho dos clubes da Serie A Italiana entre 2020 e 2025| [Ver projeto](SERIE A TIM) |
 
 
 ---
