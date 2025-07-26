@@ -1,0 +1,31 @@
+📊 Dashboard – Campeonato Italiano (Serie A) 2020–2025
+
+## 🎯 Objetivo
+Analisar o desempenho dos clubes da Serie A Italiana entre 2020 e 2025,
+destacando rankings gerais, campeões por temporada, goleadas históricas e métricas ofensivas e defensivas para identificar padrões e destaques ao longo dos anos.
+
+## 📁 Dados utilizados
+- Fonte: Base real de dados do campeonato italiano retirada do Kaggle
+- Período: Temporadas de 2020 a 2025
+- Quantidade de registros: 3.800 linhas (jogos)
+- Principais colunas: Time, Temporada, Gols marcados (GF), Gols sofridos (GA), Resultado, Pontos, Formação, Local (Venue), MatchKey
+
+
+## 🧰 Ferramentas
+- Power BI
+- Excel 
+
+## 📈 Painel
+![Pagina Incial] (URL_da_Imagem)
+
+## 🔎 Insights
+
+Internazionale foi o time com mais vitórias (129), gols marcados (412) e melhor média defensiva (0,86 gols sofridos/jogo).
+
+Napoli conquistou dois títulos no período analisado (2023 e 2025).
+
+Hellas Verona foi o time com mais derrotas (88) e defesa mais vazada (284 gols sofridos).
+
+As formações 4-2-3-1 e 3-5-2 foram as mais utilizadas.
+
+A maior goleada foi Roma 7x0 Sassuolo.
