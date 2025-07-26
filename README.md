@@ -22,7 +22,7 @@ Ao longo da minha trajetória, venho desenvolvendo competências em análise de 
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| 📊 **Dashboard Campeonato Italiano** | Analise do desempenho dos clubes da Serie A Italiana entre 2020 e 2025| [Ver projeto](SERIE A TIM) |
+| 📊 **Dashboard Campeonato Italiano** | Analise do desempenho dos clubes da Serie A Italiana entre 2020 e 2025| [Ver projeto]([(https://github.com/Gbweberp/PortifolioBI/tree/96044e32ffd9d6b60db6d2e3660ed237e19c575e/SERIE%20A%20TIM))
 
 
 ---
