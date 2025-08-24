@@ -23,6 +23,7 @@ Ao longo da minha trajetória, venho desenvolvendo competências em análise de 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | 📊 **Dashboard Campeonato Italiano** | Analise do desempenho dos clubes da Serie A Italiana entre 2020 e 2025| [Ver projeto](https://github.com/Gbweberp/PortifolioBI/tree/main/SERIE%20A%20TIM)
+| 📊 **Dashboard Veiculos Elétricos** | Analise a evolução da frota de veículos elétricos (EVs) no estado de Washigton | [Ver projeto](https://github.com/Gbweberp/PortifolioBI/tree/main/Veiculos%20El%C3%A9tricos)
 
 
 ---
