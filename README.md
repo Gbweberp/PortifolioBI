@@ -13,8 +13,8 @@ Ao longo da minha trajetória, venho desenvolvendo competências em análise de 
 
 - 📊 Power BI para construção de dashboards e modelagem de dados
 - 📈 Excel avançado para análises e simulações
-- 🧠 Foco em dados aplicados ao negócio (vendas, produtividade, operações)
-- 🔍 Interesse em BI, análise de performance e inteligência comercial
+- 🧠 Foco em dados aplicados ao negócio, apoiando decisões em vendas, produtividade, logística e operações
+- 🔍 Interesse em Business Intelligence, análise de performance, supply chain analytics e inteligência comercial
 
 ---
 
@@ -24,6 +24,7 @@ Ao longo da minha trajetória, venho desenvolvendo competências em análise de 
 |--------|-----------|------|
 | 📊 **Dashboard Campeonato Italiano** | Analise do desempenho dos clubes da Serie A Italiana entre 2020 e 2025| [Ver projeto](https://github.com/Gbweberp/PortifolioBI/tree/main/SERIE%20A%20TIM)
 | 📊 **Dashboard Veiculos Elétricos** | Analise a evolução da frota de veículos elétricos (EVs) no estado de Washigton | [Ver projeto](https://github.com/Gbweberp/PortifolioBI/tree/main/Veiculos%20El%C3%A9tricos)
+| 📊 **Dashboard Vasco da Gama** | Dashboard pessoal com análise dos jogos do Vasco que acompanhei| [Ver projeto]((https://github.com/Gbweberp/PortifolioBI/tree/main/VASCO)
 
 
 ---
