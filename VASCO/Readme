@@ -1,0 +1,80 @@
+# 📊 Dashboard Pessoal - Jogos do Vasco (2008–2025)
+
+## 🎯 Objetivo
+Este é um **dashboard pessoal e dinâmico** que reúne todos os jogos do **Vasco da Gama** que acompanhei presencialmente entre **2008 e 2025**.  
+O painel é **vivo**, ou seja, sempre que vou a novos jogos os dados são atualizados, permitindo acompanhar minha trajetória como torcedor e analisar o desempenho do clube nas partidas que presenciei.
+
+---
+
+## 📁 Dados utilizados
+- Base de dados própria, alimentada manualmente a cada jogo que compareço.  
+- Principais variáveis registradas:
+  - Data e ano do jogo
+  - Estádio
+  - Adversário
+  - Placar
+  - Competição
+  - Público presente
+  - Principais destaques / artilheiros
+
+---
+
+## 🧰 Ferramentas
+- **Power BI Desktop** para construção do dashboard
+- **Excel** para armazenamento e atualização da base de dados
+- **Power Query / DAX** para tratamento e cálculos
+
+---
+
+## 📈 Principais Métricas (até agora)
+- **Número total de jogos assistidos:** 111  
+- **Vitórias:** 59  
+- **Empates:** 26  
+- **Derrotas:** 26  
+- **Aproveitamento nas partidas que fui:** 61%  
+- **Maior público:** 69 mil torcedores (Maracanã)
+
+---
+
+## 🔎 Insights
+- O estádio que mais frequentei foi o **São Januário** (67 jogos).  
+- O **Maracanã** concentrou os maiores públicos (média de 44 mil).  
+- Meus adversários mais frequentes como torcedor no estádio foram:  
+  **Fluminense (13 jogos), Flamengo (9 jogos), Botafogo (7 jogos), Athletico-PR (4 jogos)**.  
+- Artilheiros que mais vi marcar gols com a camisa do Vasco:
+  - **Vegetti – 16 gols**
+  - **Nenê – 11 gols**
+  - **Yago Pikachu – 9 gols**
+- Em 2025, já acompanhei **8 jogos** no estádio, com aproveitamento de **54%**.
+
+---
+
+## 📂 Estrutura do projeto
+- `dashboard-vasco.pbix` → Arquivo do Power BI  
+- `dados/` → Pasta com as bases atualizadas em Excel  
+- `prints/` → Imagens ilustrativas do painel  
+- `Jogos VASCO.pdf` → Exportação em PDF do dashboard  
+
+---
+
+## 📈 Painel
+
+![Página Inicial](https://github.com/Gbweberp/PortifolioBI/blob/main/VASCO/Assests/Pagina%20Inicial.jpg)
+![Adversários](https://github.com/Gbweberp/PortifolioBI/blob/main/VASCO/Assests/Adversarios.jpg)
+![Artilheiros](https://github.com/Gbweberp/PortifolioBI/blob/main/VASCO/Assests/Artilheiros.jpg)
+![Clássicos](https://github.com/Gbweberp/PortifolioBI/blob/main/VASCO/Assests/Classicos.jpg)
+![Estádio](https://github.com/Gbweberp/PortifolioBI/blob/main/VASCO/Assests/Estadio.jpg)
+![Jogos do Ano](https://github.com/Gbweberp/PortifolioBI/blob/main/VASCO/Assests/Jogos%20do%20Ano.jpg)
+![Público](https://github.com/Gbweberp/PortifolioBI/blob/main/VASCO/Assests/Publico.jpg)
+
+
+---
+
+## 🚀 Próximos passos
+- Continuar atualizando o painel a cada novo jogo assistido  
+- Criar análises comparativas por temporada  
+- Incluir evolução do meu histórico como torcedor (mapa de estádios, viagens, clássicos etc.)
+
+---
+
+> ⚠️ **Observação**: Este é um projeto **pessoal**, não oficial do Vasco da Gama. O objetivo é unir a paixão pelo clube com a prática de **Business Intelligence**.
